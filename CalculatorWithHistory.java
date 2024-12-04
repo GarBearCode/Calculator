@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Calculator with History
  * Created: December 3, 2024
- * Author: Your Name
+ * Author: Gurkirat Singh
  * 
  * A simple calculator for addition and subtraction.
  * Tracks all calculations in a history log.
